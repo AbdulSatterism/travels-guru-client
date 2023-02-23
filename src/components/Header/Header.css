@@ -1,0 +1,17 @@
+.logo img {
+    width: 120.26px;
+    height: 56px;
+    background-color: #FFFFFF;
+
+}
+
+.list a {
+    text-decoration: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-left: 20px;
+}

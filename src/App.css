@@ -1,7 +1,13 @@
-.App {
-  text-align: center;
+/* .App {
+  background: url('/src/images/img/Rectangle\ 1.png'), #C4C4C4;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 650px;
+  /* filter: saturate(50%); 
 }
 
+*/
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -32,6 +38,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
